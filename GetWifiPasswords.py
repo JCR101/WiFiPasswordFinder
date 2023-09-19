@@ -27,7 +27,5 @@ if __name__ == "__main__":
 
         if password:
             print(f"SSID: {profile} | Password: {password}")
-        else:
-            print(f"SSID: {profile} | Password: Not found")
 
     input("Press any key to exit...")
